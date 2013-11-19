@@ -1,0 +1,43 @@
+.square {
+  height: 100px;
+        width: 100px;
+        background-color: red;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        color: white;
+        text-align: center;
+}
+
+.usage-detail {
+	background: #bb0000;
+	width: 200px;
+	height: 50px;
+	margin-left: 75px;
+}
+
+.usage-snapshot {
+	background: #00bbbb;
+	width: 250px;
+	height: 50px;
+	margin-left: 25px;
+}
+
+/*.snapshot-container {
+	height: 75px;
+	width: auto;
+}*/
+
+.usage-snapshot-headshot {
+	border-radius: 50%;
+	background: #bbbb00;
+	width: 75px;
+	height: 75px; 
+	float:left;
+	display:inline-block;
+}
+
+.usage-container {
+	margin-bottom:50px;
+}
+
